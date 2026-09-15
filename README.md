@@ -1,8 +1,8 @@
 # Greetings, I'm Addison!
 
-### M.Sc. Bioinformatics Student | Computational Genomics Researcher
+### M.Sc. Bioinformatics | Computational Genomics Researcher
 
-I am a Master's student specializing in **Bioinformatics** with a strong background in large-scale data processing, reproducible pipelines, and computational genomics. My work focuses on leveraging **High-Performance Computing (HPC)** environments and machine learning to tackle complex biological problems, including *de novo* genome assembly and regulatory element prediction.
+I am a recent Master's student specializing in **Bioinformatics** with a strong background in large-scale data processing, reproducible pipelines, and computational genomics. My work focuses on leveraging **High-Performance Computing (HPC)** environments and machine learning to tackle complex biological problems, including *de novo* genome assembly and regulatory element prediction.
 
 ---
 
